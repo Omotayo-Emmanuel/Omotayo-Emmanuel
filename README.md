@@ -1,8 +1,7 @@
 <h1 align="center"> 👋Hey You! Welcome to Emmanuel’s Curious Code Corner 👨🏽‍💻✨  </h1>
 
-Glad you made it here! You're currently inside the digital brain of a **tech explorer** who’s always building, breaking, and learning something new.
-
-**I'm**
+### Glad you made it here! You're currently inside the digital brain of a **tech explorer** who’s always building, breaking, and learning something new. ###
+---
 👀 Passionate about Python, APIs, Data Science & clean, functional UI.  
 💡 Currently exploring smart solutions with code — from business locators to task managers.  
 🤝 Always open to collabs, open-source, or just tech banter.  
